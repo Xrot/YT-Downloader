@@ -1,2 +1,2 @@
 # YT-Downloader
-Downloads Video and Audio in .webm format separately in highest quality.
+Downloads Video and Audio streams from YouTube in .webm format separately & with highest quality available.
